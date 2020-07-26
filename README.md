@@ -6,4 +6,4 @@ Requirement: C++ 11
 **How to run**:
 - run cmake . 
 - run cmake --build
-- launch the executable, this will run the set of test in the *test.h* file.
+- launch the executable, this will run the set of test in the *test_unit.h* file.
