@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/String_Matching_FiniteAutomata/finite_auto_tools.hpp
+string
+-
+vector
+-
+iostream
+-
+algorithm
+-
+
+D:/Projects/String_Matching_FiniteAutomata/main.cpp
+iostream
+-
+finite_auto_tools.hpp
+D:/Projects/String_Matching_FiniteAutomata/finite_auto_tools.hpp
+test_unit.h
+D:/Projects/String_Matching_FiniteAutomata/test_unit.h
+vector
+-
+string
+-
+cassert
+-
+
+D:/Projects/String_Matching_FiniteAutomata/test_unit.h
+
